@@ -3,7 +3,7 @@
 using namespace std;
 int main(){
     int n,i=1;
-    cout<<"enter the nth value";
+    cout<<"enter the nth value after something";
     cin>>n;
 
     while(i<=n)
